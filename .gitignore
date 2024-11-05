@@ -1,3 +1,7 @@
 images/
 .ipynb_checkpoints/
 .DS_Store/
+images_dataset/
+images_dataset_test/
+images_dataset_train/
+classifier-env/
